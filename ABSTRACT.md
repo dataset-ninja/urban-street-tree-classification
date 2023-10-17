@@ -22,7 +22,7 @@ Authors introduce the **Tree** component for classification task within The **Tr
 
 - Leaf 9763 images, 39 classes (11G) ([available on DatasetNinja](https://datasetninja.com/urban-street-leaf))
 
-<img src="https://ytt917251944.github.io/dataset_jekyll/assets/img/class/classification-tree.png" alt="image" width="800">
+<img src="https://ytt917251944.github.io/dataset_jekyll/assets/img/class/classification-tree.png" alt="image" width="500">
 
 <span style="font-size: smaller; font-style: italic;">Examples of Urban Street: Tree (classification task).</span>
 
