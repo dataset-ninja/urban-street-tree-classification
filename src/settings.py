@@ -70,6 +70,8 @@ AUTHORS: Optional[List[str]] = [
     "Junhua Ye",
     "Jianxin Yin",
 ]
+AUTHORS_CONTACTS: Optional[List[str]] = ["xuaj1976@163.com"]
+
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = [
     "Zhejiang Agriculture and Forestry University"
@@ -155,6 +157,7 @@ def get_settings():
     settings["repository"] = REPOSITORY
     settings["citation_url"] = CITATION_URL
     settings["authors"] = AUTHORS
+    settings["authors_contacts"] = AUTHORS_CONTACTS
     settings["organization_name"] = ORGANIZATION_NAME
     settings["organization_url"] = ORGANIZATION_URL
     settings["slytagsplit"] = SLYTAGSPLIT
